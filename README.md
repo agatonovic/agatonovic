@@ -5,12 +5,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+🔭 Broadening my technological skills...
+🌱 Learning to code after a decade long design career...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚖ Became a Law student
