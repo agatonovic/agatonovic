@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 Broadening my technological skills...
-🌱 Learning to code after a decade long design career...
+🔭 Broadening my technological skills... <br /> 
+🌱 Learning to code after a decade of "just designing"...
 
 
 
@@ -23,8 +23,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-⚖ Became a Law student
